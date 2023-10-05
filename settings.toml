@@ -1,0 +1,4 @@
+[tool.black]
+line-length = 79
+target-version = ['py38']
+exclude = '\.venv|\.git|__pycache__|venv|env|build|dist'
