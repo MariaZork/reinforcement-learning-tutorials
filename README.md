@@ -1,5 +1,7 @@
 # Reinforcement learning tutorials
 
+This repository contains experiments with reinforcement learning methods.
+
 ## Cross entropy method
 
 [Cross-Entropy Method (CEM) for Gym Taxi-v3](/cross_entropy_method/cross_entropy_method.py)
