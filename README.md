@@ -15,3 +15,9 @@ This repository contains experiments with reinforcement learning methods.
 [Deep Cross-Entropy Method with discrete policy for LunarLander-v2](/deep_cross_entropy_method/discrete_deep_cross_entropy.py)
 
 [Deep Cross-Entropy Method with continuous policy for MountainCarContinuous-v0](/deep_cross_entropy_method/continuous_deep_cross_entropy.py)
+
+## Dynamic Programming Methods
+
+[Policy Iteration for FrozenLakeEnv solving](/dynamic_programming/policy_iteration.py)
+
+[Value Iteration for FrozenLakeEnv solving](/dynamic_programming/value_iteration.py)
